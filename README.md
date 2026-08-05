@@ -7,16 +7,17 @@
 ### 🚀 Sobre mim
 
 - 🔭 **Atualmente trabalhando em:** Projetos práticos e aplicações web/mobile do curso.
-- 🌱 **Atualmente aprendendo:** Arquitetura de software, Banco de Dados e desenvolvimento Full Stack.
+- 🌱 **Atualmente aprendendo:** Arquitetura de software, Banco de Dados, Python e desenvolvimento Full Stack.
 - 👯 **Procuro colaborar em:** Projetos open source e trabalhos em equipe.
 - 💬 **Pergunte-me sobre:** Desenvolvimento de Sistemas, programação e rotina de estudos no SENAI.
 - 📫 **Como me encontrar:** 11 98868-0226
-- ⚡ **Fun fact:** Sempre movido a aprender novas tecnologias! ☕
+- ⚡ **Fun fact:** Sempre movido a café e curioso para aprender novas tecnologias! ☕
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
