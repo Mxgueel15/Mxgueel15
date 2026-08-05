@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mxgueel!
+# Olá 👋, Eu sou o Mxgueel!
 
 🎓 **Estudante de Desenvolvimento de Sistemas no SENAI** (3º Termo)
 
