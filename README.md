@@ -10,7 +10,7 @@
 - 🌱 **Atualmente aprendendo:** Arquitetura de software, Banco de Dados e desenvolvimento Full Stack.
 - 👯 **Procuro colaborar em:** Projetos open source e trabalhos em equipe.
 - 💬 **Pergunte-me sobre:** Desenvolvimento de Sistemas, programação e rotina de estudos no SENAI.
-- 📫 **Como me encontrar:** mkaua1509@gmail.com
+- 📫 **Como me encontrar:** 11 98868-0226
 - ⚡ **Fun fact:** Sempre movido a aprender novas tecnologias! ☕
 
 ---
